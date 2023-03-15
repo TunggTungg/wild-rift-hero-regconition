@@ -12,8 +12,8 @@ First, download my code then put all images you want to query into 1 folder then
 https://user-images.githubusercontent.com/90820359/225290977-40b7d637-ecf8-4cbf-b8ce-4e7960b3bbd9.mp4
 
 ## Requirement
-tensorflow
-pickle
-pandas
-cv2
-numpy
+* tensorflow
+* pickle
+* pandas
+* cv2
+* numpy
