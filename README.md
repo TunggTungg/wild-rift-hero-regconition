@@ -6,7 +6,8 @@
 First, download my code then put all images you want to query into 1 folder then run main.py and input folder_path. Finally, check output.csv for the result. You can watch the video for more details.
 
 ## Video: How to use
-<p align="center">
-  <img src="video/2023-03-15 17-33-37.mkv" width=600><br/>
-  <i>How to use</i>
-</p>
+
+
+
+https://user-images.githubusercontent.com/90820359/225290977-40b7d637-ecf8-4cbf-b8ce-4e7960b3bbd9.mp4
+
