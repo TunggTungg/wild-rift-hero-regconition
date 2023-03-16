@@ -2,8 +2,11 @@
  <h1 align="center">Wild-rift-hero-regconition</h1>
 </p>
 
+## NOTE
+Make sure the query image has the face of the hero that exists in the hero class
+
 ## HOW TO USE
-First, download my code then put all images you want to query into 1 folder then run main.py and input folder_path. Finally, check output.csv for the result. You can watch the video for more details.
+First, download my code then put all images you want to query into 1 folder then run main.py and input folder_path. Finally, check output.csv for the result. You can watch the video for more details. 
 
 ## Video: How to use
 
