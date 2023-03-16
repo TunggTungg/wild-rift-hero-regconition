@@ -3,7 +3,7 @@
 </p>
 
 ## NOTE
-Make sure the query image has the face of the hero that exists in the hero class
+Make sure the query image has the face of the hero that exists in the hero class (hero_names.txt)
 
 ## HOW TO USE
 First, download my code then put all images you want to query into 1 folder then run main.py and input folder_path. Finally, check output.csv for the result. You can watch the video for more details. 
