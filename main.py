@@ -69,7 +69,7 @@ if __name__ == '__main__':
 			output["Prediction"].append(predict)
 		except:
 			output["Path"].append(path)
-			output["Prediction"].append("Cannot find the circle in the image. Maybe the image is too blurry!")
+			output["Prediction"].append("Cannot find the circle in the image (hero's face). Maybe the image is too blurry!")
 	
 	output = pd.DataFrame(data=output)
 	output.to_csv("output.csv")
